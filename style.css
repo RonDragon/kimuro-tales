@@ -65,4 +65,4 @@ footer a{color:#ffd9a8}
 
 .sec{font-size:30px;margin:26px 0 6px}.sec small{font-size:16px;color:var(--muted)}.tools{display:flex;gap:10px;flex-wrap:wrap;justify-content:center;margin-top:8px}
 .tools input,.tools select{font:inherit;padding:10px 16px;border-radius:999px;border:3px solid var(--line);background:#fff;color:var(--ink);min-width:220px}
-.fr{position:absolute;top:10px;right:14px;background:var(--gold);color:var(--ink);font-weight:800;font-size:13px;border-radius:999px;padding:1px 10px}
+.fr.bd{background:#e5e7eb;color:#3e1e5c}.fr{position:absolute;top:10px;right:14px;background:var(--gold);color:var(--ink);font-weight:800;font-size:13px;border-radius:999px;padding:1px 10px}
